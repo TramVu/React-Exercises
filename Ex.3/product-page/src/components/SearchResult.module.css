@@ -1,0 +1,40 @@
+.name
+{
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.brand
+{
+  color: #6e6b6b;
+  font-size: 15px;
+  padding-bottom: 5px;
+}
+
+.product
+{
+  width: 33.33%;
+  box-sizing: border-box;
+  padding: 30px;
+}
+
+.fee{
+  display:flex;
+  align-items: center;
+  float:left;
+  clear:both;
+  padding-top:3px;
+  padding-bottom: 5px;
+}
+
+.fee .price{
+  font-weight:bold;
+  font-size:20px;
+}
+
+.fee .shipping{
+  font-style: italic;
+  color: rgb(104, 101, 101);
+}

@@ -1,0 +1,140 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Apple Pencil (2nd Generation)",
+      "brand": "by Apple",
+      "type": "Computers, Tablets and IT Accessories",
+      "price": 134.99,
+      "rating": "5 / 5",
+      "shipping": " - Currently Unavailable", 
+      "image": "pen 2nd generation.png",
+      "detail": [
+        "Compatible with iPad mini (6th generation), iPad Air (4th generation), iPad Pro 12.9-inch (3rd, 4th, and 5th generations), iPad Pro 11-inch (1st, 2nd, and 3rd generations)",
+        "Apple Pencil (2nd generation) brings your work to life. With imperceptible lag, pixel-perfect precision, and tilt and pressure sensitivity, it transforms into your favorite creative instrument, your paint brush, your charcoal, or your pencil.",
+        "It makes painting, sketching, doodling, and even note-taking better than ever.",
+        "It magnetically attaches to iPad mini (6th generation), iPad Pro and iPad Air, charges wirelessly, and lets you change tools with a simple double tap."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Roku Express 4K+ 2021 | Streaming Media Player HD/4K/HDR with Smooth Wireless Streaming and Roku Voice Remote with TV Controls, Includes Premium HDMI Cable",
+      "brand": "by Roku",
+      "type": "Computers, Tablets and IT Accessories",
+      "price": 38.98,
+      "rating": "4.5 / 5",
+      "shipping": "+ $37.70 shipping",
+      "image": "Roku_express.png",
+      "detail": [
+        "Brilliant 4K picture quality: Stream in HD, 4K, and HDR with sharp resolution and vivid color optimized for your TV.",
+        "Convenient voice control: Use your voice to quickly search across channels, turn captions on, and more in a touch.",
+        "Simple setup: It’s easy to get started with everything you need included in the box, including a Premium HDMI Cable—just plug it in and connect to the internet."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PS4, & Xbox - 1-Year Rescue Service (STGX2000400)",
+      "brand": "by Seagate",
+      "type": "Computers, Tablets and IT Accessories",
+      "price": 59.99,
+      "rating": "4.5 / 5",
+      "shipping": "+ $33.58 shipping",
+      "image": "seagate portable.png",
+      "promos": [
+        "Easily store and access 2TB to content on the go with the Seagate Portable Drive, a USB external hard drive.",
+        "Designed to work with Windows or Mac computers, this external hard drive makes backup a snap just drag and drop.",
+        "This USB drive provides plug and play simplicity with the included 18 inch USB 3.0 cable."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Roku Voice Remote with TV Controls",
+      "brand": "by Roku",
+      "type": "Computers, Tablets and IT Accessories",
+      "price": 39.00,
+      "rating": "4.5 / 5",
+      "shipping": "+ $33.28 shipping",
+      "image": "Roku2.png",
+      "promos": [
+        "Wireless that goes the distance: Basement rec room? Backyard movie night? Bring ‘em on. The long-range wireless receiver gives you extended range and a stronger signal for smooth streaming even in rooms farther from your router.",
+        "Setup is a cinch: Plug it in, connect to the internet, and start streaming—it’s that simple.",
+        "No more juggling remotes: Power up your TV, adjust the volume, mute, and control your streaming all with one remote—use your voice to quickly search across channels, turn captions on, and more in a touch."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Apple Pencil",
+      "brand": "by Apple",
+      "type": "Computers, Tablets and IT Accessories",
+      "price": 98.90,
+      "rating": "5 / 5",
+      "shipping": " - Currently Unavailable",
+      "image": "Apple pen.png",
+      "promos": [
+        "Apple Pencil features the precision, responsiveness, and natural fluidity of a traditional writing instrument and the versatility to become so much more.",
+        "With Apple Pencil, you can turn iPad into your notepad, canvas, or just about anything else you can imagine.",
+        "Compatible with iPad (6th, 7th, and 8th generation), iPad Air (3rd generation), iPad mini (5th generation), iPad Pro 12.9-inch (1st and 2nd generation), iPad Pro 10.5-inch, iPad Pro 9.7-inch."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sceptre E248W-19203R 24' Ultra Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Metallic Black 2018",
+      "brand": "by Sceptre",
+      "type": "Computers, Tablets and IT Accessories",
+      "price": 139.97,
+      "rating": "4.5 / 5",
+      "shipping": "+ $90.99 shipping",
+      "image": "Sceptre.png",
+      "promos": [
+        "Slim bezel with thin chassis. Power Range (V, A, Hz)- AC-DC Adapter Input 100 – 240 VAC, 50/60 Hz, 1.0A (Max.) Output - 12V DC, 2.5A. Power Consumption (Typical)- 25.4W. Neck/Stand Detachable: Yes",
+        "2 x HDMI Ports (convertible to DVI).Contrast Ratio:1000 : 1",
+        "VESA wall mount ready. HDMI Input Signal Support - 1920 x 1080 @ 75Hz, 1080/60p, 1080/60i, 720p, 480p, 480i, Built-in Speakers - 2 x 2W 8 Ohm.Mounting type: VESA Hole Pattern 100mm x 100mm"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "2021 Apple 11-inch iPad Pro (Wi-Fi, 128GB) - Space Gray",
+      "brand": "by Apple",
+      "type": "Computers, Tablets and IT Accessories",
+      "price": 909.00,
+      "rating": "5 / 5",
+      "shipping": " - Currently Unavailable",
+      "image": "iPad.png",
+      "promos": [
+        "Apple M1 chip for next-level performance",
+        "TrueDepth camera system featuring Ultra Wide front camera with Center Stage with 12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR",
+        "Thunderbolt port for connecting to fast external storage, displays, and docks"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Logitech MK270 Wireless Keyboard and Mouse Combo - Keyboard and Mouse Included, Long Battery Life",
+      "brand": "by Logitech",
+      "type": "Computers, Tablets and IT Accessories",
+      "price": 24.49,
+      "rating": "4.5 / 5",
+      "shipping": " - Currently Unavailable",
+      "image": "keyboard.png",
+      "promos": [
+        "The USB receiver is conveniently located in the box, top flap. Compatibility- Windows, Chrome OS",
+        "Work for longer with long battery life: Basic AA and AAA batteries are included with the keyboard and mouse",
+        "Programmable hotkeys to boost productivity: Automatically access frequently used applications by programming them to the 8 available hotkeys"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Logitech H390 Wired Headset, Stereo Headphones with Noise-Cancelling Microphone, USB, In-Line Controls, PC/Mac/Laptop - Black",
+      "brand": "by Logitech",
+      "type": "Computers, Tablets and IT Accessories",
+      "price": 24.95,
+      "rating": "4.5 / 5",
+      "shipping": " - Currently Unavailable",
+      "image": "logitech_headset.png",
+      "promos": [
+        "Padded headband and ear pads. Frequency response (Microphone): 100 hertz - 10 kilohertz",
+        "Rotating, noise canceling microphone. Sensitivity (headphone) 94 dBV/Pa +/ 3 dB. Sensitivity (microphone) 17 dBV/Pa +/ 4 dB",
+        "Compatible with Windows Vista, Windows 7, Windows 8, Windows 10 or later and Mac OS X(10.2.8 or later)"
+      ]
+    }
+  ]
+}

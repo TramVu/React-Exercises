@@ -1,0 +1,28 @@
+.sidebar{
+    position: relative;
+    padding: 30px 10px;
+    left: 10%;
+    width:max-content;
+    height: 100%; 
+    align-items: center;
+    justify-content: center;
+    color: white;
+    letter-spacing:  0.5px;
+}
+
+#sent1{
+    background-color: #17989c;
+    padding:12px;
+}
+
+#sent2{
+    background-color: #17989c;
+    padding:12px;
+    margin-top: 10px;
+} 
+
+#sent3{
+    background-color: #41a8e4;
+    padding:12px;
+    margin-top: 10px;
+}
